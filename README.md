@@ -1,4 +1,4 @@
-# Javascript - Validación Formularios
+# Javascript - Validación de Formularios
 
 ![image](https://cdn.jsdelivr.net/gh/K3yJey/javascript-validacionFormularios_HTML5@main/assets/img/homePage_PetShop.png)
 
