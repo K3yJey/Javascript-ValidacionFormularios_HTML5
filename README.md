@@ -1,6 +1,6 @@
 # Javascript - Validación Formularios
 
-![image](https://cdn.jsdelivr.net/gh/K3yJey/javascript-DOM@main/assets/homePage_TodoApp.png)
+![image](https://cdn.jsdelivr.net/gh/K3yJey/javascript-validacionFormularios_HTML5@main/assets/img/homePage_PetShop.png)
 
 ## Sobre el repositorio
 Quinto proyecto del Desarrollo FrontEnd para el programa ONE + Alura. Proyecto en el cual se trabaja con la validación de los formularios, creando un sitio web dinámico.
@@ -16,7 +16,7 @@ Quinto proyecto del Desarrollo FrontEnd para el programa ONE + Alura. Proyecto e
 Proyecto web sin Responsive Design.
 
 ## ▶️ Prueba la Aplicación Web - Github Pages
-* Github Pages => [Todo App](https://k3yjey.github.io/javascript-validacionFormularios_HTML5/)
+* Github Pages => [Pet Shop](https://k3yjey.github.io/javascript-validacionFormularios_HTML5/)
 
 ## 💻 Contacto
 * Linkedin => [Clic aquí](https://www.linkedin.com/in/k3yjey-dev/)
