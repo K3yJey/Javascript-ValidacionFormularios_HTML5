@@ -1,9 +1,11 @@
-# Javascript - DOM
+# Javascript - Validación Formularios
+
+![image](https://cdn.jsdelivr.net/gh/K3yJey/javascript-DOM@main/assets/homePage_TodoApp.png)
 
 ## Sobre el repositorio
-Quinto proyecto del Desarrollo FrontEnd para el programa ONE + Alura. 
+Quinto proyecto del Desarrollo FrontEnd para el programa ONE + Alura. Proyecto en el cual se trabaja con la validación de los formularios, creando un sitio web dinámico.
 
-## ✔️ [El respositorio aquí](https://github.com/K3yJey/Javascript-ValidacionFormularios_HTML5.git)
+## ✔️ [El respositorio aquí](https://github.com/K3yJey/javascript-validacionFormularios_HTML5.git)
 
 ## 🔧 Tecnologías utilizadas
 * ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -11,7 +13,10 @@ Quinto proyecto del Desarrollo FrontEnd para el programa ONE + Alura.
 * ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## 📌 Comentarios adicionales 
-* Curso en proceso.
+Proyecto web sin Responsive Design.
+
+## ▶️ Prueba la Aplicación Web - Github Pages
+* Github Pages => [Todo App](https://k3yjey.github.io/javascript-validacionFormularios_HTML5/)
 
 ## 💻 Contacto
 * Linkedin => [Clic aquí](https://www.linkedin.com/in/k3yjey-dev/)
