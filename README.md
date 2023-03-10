@@ -1,6 +1,6 @@
 # Javascript - Validación de Formularios
 
-![image](https://cdn.jsdelivr.net/gh/K3yJey/javascript-validacionFormularios_HTML5@main/assets/img/homePage_PetShop.png)
+![image](https://cdn.jsdelivr.net/gh/K3yJey/javascript-validacionFormularios_HTML5@main/assets/img/homePage_Vet.png)
 
 ## Sobre el repositorio
 Quinto proyecto del Desarrollo FrontEnd para el programa ONE + Alura. Proyecto en el cual se trabaja con la validación de los formularios, creando un sitio web dinámico.
