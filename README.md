@@ -16,7 +16,7 @@ Quinto proyecto del Desarrollo FrontEnd para el programa ONE + Alura. Proyecto e
 Proyecto web sin Responsive Design.
 
 ## ▶️ Prueba la Aplicación Web - Github Pages
-* Github Pages => [El respositorio aquí](https://github.com/K3yJey/javascript-validacionFormularios_HTML5.git) [Pet Shop](https://k3yjey.github.io/javascript-validacionFormularios_HTML5/)
+* Github Pages => [Github Pages](https://github.com/K3yJey/javascript-validacionFormularios_HTML5.git)
 
 ## 💻 Contacto
 * Linkedin => [Clic aquí](https://www.linkedin.com/in/k3yjey-dev/)
